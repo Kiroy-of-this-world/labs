@@ -131,6 +131,15 @@ namespace Laba_8
                     file.WriteLine("Объект обобщённого типа:");
                     file.WriteLine(use.elementD);
                 }
+                Console.WriteLine();
+                using (StreamReader file = new StreamReader(path, System.Text.Encoding.Default))
+                {
+                    string line;
+                    while ((line = file.ReadLine()) != null)
+                    {
+                        Console.WriteLine(line);
+                    }
+                }
 
                 Console.WriteLine();
             }
