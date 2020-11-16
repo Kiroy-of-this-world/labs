@@ -33,8 +33,6 @@ namespace Laba_8
     interface IRuleHere<Using>
     {
         void AddD(Using element);
-        void DeleteE(int element);
-        void OutputT();
     }
 
     public class Lists<T> : IRule<T>
@@ -62,25 +60,18 @@ namespace Laba_8
     }
     public class ListT<Using> : IRuleHere<Using> where Using : class
     {
-        ListT<Using> someList1 = new ListT<Using>(); //выделение памяти списка
+        List<Using> someList1 = new List<Using>(); //выделение памяти списка
         public ListT() //конструктор списка
         {
-            ListT<Using> someList1 = new ListT<Using>();
+            List<Using> someList1 = new List<Using>();
         }
         public void AddD(Using element) //метод добавления элемента в список
         {
-            someList1.AddD(element);
+            someList1.Add(element);
         }
-        public void OutputT() //метод вывода списка
+        public void OutputT(int element) //метод вывода списка
         {
-            foreach (Using i in someList1)
-            {
-                Console.WriteLine(i);
-            }
-        }
-        public void DeleteE(int element) //метод удаления элемента из списка
-        {
-            someList1.RemoveAt(element);
+            Console.WriteLine(element);
         }
     }
 
@@ -101,7 +92,6 @@ namespace Laba_8
                 list1.Add(6);
                 list1.Output();
                 Console.WriteLine();
-
                 list1.Delete(1);
                 list1.Output();
                 Console.WriteLine();
@@ -115,18 +105,34 @@ namespace Laba_8
                 list2.Add("abcd");
                 list2.Output();
                 Console.WriteLine();
-
                 list2.Delete(1);
                 list2.Output();
                 Console.WriteLine();
 
+                Console.WriteLine("Cписок со  пользовательский класс в качестве параметра обобщения:");
+                ListT<Using> list3 = new ListT<Using>();
+                int Use = 32;
+                Using use = new Using(Use);
+                list3.AddD(use);
+                list3.OutputT(use.elementD);
+                Console.WriteLine();
 
+                string path = @"C:\Кирилл\text.txt";
+                FileInfo fileInf = new FileInfo(path);
+                if (fileInf.Exists)
+                {
+                    Console.WriteLine($"Имя файла: {fileInf.Name}");
+                    Console.WriteLine($"Время создания: {fileInf.CreationTime}");
+                    Console.WriteLine($"Размер: {fileInf.Length}");
+                }
+                using (StreamWriter file = new StreamWriter(path, false, System.Text.Encoding.Default))
+                {
+                    file.WriteLine("Работа с файлом:");
+                    file.WriteLine("Объект обобщённого типа:");
+                    file.WriteLine(use.elementD);
+                }
 
-
-
-
-
-
+                Console.WriteLine();
             }
             catch (FormatException) { Console.WriteLine("Внимание! Неверный ввод. Попробуйте ещё раз."); }
             finally { Console.WriteLine("Finally!"); }
