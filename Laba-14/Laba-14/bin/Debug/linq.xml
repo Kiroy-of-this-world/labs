@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tennis>
+  <Player Name="Кирилл">
+    <Wins>3</Wins>
+  </Player>
+  <Player Name="Дима">
+    <Wins>null</Wins>
+  </Player>
+</Tennis>

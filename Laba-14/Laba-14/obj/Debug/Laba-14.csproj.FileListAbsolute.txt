@@ -1,0 +1,17 @@
+C:\Кирилл\Универ\2 курс\ООП\Лабораторные работы\Laba-14\Laba-14\bin\Debug\Laba-14.exe.config
+C:\Кирилл\Универ\2 курс\ООП\Лабораторные работы\Laba-14\Laba-14\bin\Debug\Laba-14.exe
+C:\Кирилл\Универ\2 курс\ООП\Лабораторные работы\Laba-14\Laba-14\bin\Debug\Laba-14.pdb
+C:\Кирилл\Универ\2 курс\ООП\Лабораторные работы\Laba-14\Laba-14\obj\Debug\Laba-14.csprojAssemblyReference.cache
+C:\Кирилл\Универ\2 курс\ООП\Лабораторные работы\Laba-14\Laba-14\obj\Debug\Laba-14.csproj.CoreCompileInputs.cache
+C:\Кирилл\Универ\2 курс\ООП\Лабораторные работы\Laba-14\Laba-14\obj\Debug\Laba-14.exe
+C:\Кирилл\Универ\2 курс\ООП\Лабораторные работы\Laba-14\Laba-14\obj\Debug\Laba-14.pdb
+C:\Кирилл\Универ\2 курс\ООП\Лабораторные работы\Laba-14\Laba-14\bin\Debug\System.Text.Json.dll
+C:\Кирилл\Универ\2 курс\ООП\Лабораторные работы\Laba-14\Laba-14\bin\Debug\System.Memory.dll
+C:\Кирилл\Универ\2 курс\ООП\Лабораторные работы\Laba-14\Laba-14\bin\Debug\System.Text.Encodings.Web.dll
+C:\Кирилл\Универ\2 курс\ООП\Лабораторные работы\Laba-14\Laba-14\bin\Debug\System.Numerics.Vectors.dll
+C:\Кирилл\Универ\2 курс\ООП\Лабораторные работы\Laba-14\Laba-14\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Кирилл\Универ\2 курс\ООП\Лабораторные работы\Laba-14\Laba-14\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Кирилл\Универ\2 курс\ООП\Лабораторные работы\Laba-14\Laba-14\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Кирилл\Универ\2 курс\ООП\Лабораторные работы\Laba-14\Laba-14\obj\Debug\Laba-14.exe.config
+C:\Кирилл\Универ\2 курс\ООП\Лабораторные работы\Laba-14\Laba-14\obj\Debug\Laba-14.csproj.CopyComplete
+C:\Кирилл\Универ\2 курс\ООП\Лабораторные работы\Laba-14\Laba-14\bin\Debug\System.Buffers.dll

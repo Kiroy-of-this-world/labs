@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfTennisBall xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TennisBall>
+    <numberOfBall>1</numberOfBall>
+    <price>20</price>
+  </TennisBall>
+  <TennisBall>
+    <numberOfBall>1</numberOfBall>
+    <price>20</price>
+  </TennisBall>
+  <TennisBall>
+    <numberOfBall>1</numberOfBall>
+    <price>20</price>
+  </TennisBall>
+</ArrayOfTennisBall>
