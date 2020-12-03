@@ -1,0 +1,25 @@
+$Recycle.Bin
+$SysReset
+$WinREAgent
+Documents and Settings
+eSupport
+Intel
+OneDriveTemp
+PerfLogs
+Program Files
+Program Files (x86)
+ProgramData
+Recovery
+System Volume Information
+Users
+Windows
+Кирилл
+Программы
+Фильмы
+devlist.txt
+DumpStack.log
+DumpStack.log.tmp
+Finish.log
+hiberfil.sys
+pagefile.sys
+swapfile.sys

@@ -1,0 +1,7 @@
+C:\Кирилл\Универ\2 курс\ООП\Лабораторные работы\Laba-10\Laba-10\bin\Debug\Laba-10.exe.config
+C:\Кирилл\Универ\2 курс\ООП\Лабораторные работы\Laba-10\Laba-10\bin\Debug\Laba-10.exe
+C:\Кирилл\Универ\2 курс\ООП\Лабораторные работы\Laba-10\Laba-10\bin\Debug\Laba-10.pdb
+C:\Кирилл\Универ\2 курс\ООП\Лабораторные работы\Laba-10\Laba-10\obj\Debug\Laba-10.csprojAssemblyReference.cache
+C:\Кирилл\Универ\2 курс\ООП\Лабораторные работы\Laba-10\Laba-10\obj\Debug\Laba-10.csproj.CoreCompileInputs.cache
+C:\Кирилл\Универ\2 курс\ООП\Лабораторные работы\Laba-10\Laba-10\obj\Debug\Laba-10.exe
+C:\Кирилл\Универ\2 курс\ООП\Лабораторные работы\Laba-10\Laba-10\obj\Debug\Laba-10.pdb
